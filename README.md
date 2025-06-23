@@ -41,6 +41,7 @@ Enhances Usability & User Experience (UX)
 Facilitates Stakeholder Communication
 Supports Iterative Improvement
 
+### Project Roles and Responsibilities
 
 Objective: Define and document the roles and responsibilities within the project.
 
